@@ -16,13 +16,12 @@ This project explores pizza sales data through SQL-based queries and Tableau vis
 
 ### Insights and Recommendations
 Peak Order Times:
-
 Sales peak during evening hours, highlighting the importance of optimizing staff schedules to meet demand.
 Best-Selling Pizza Categories:
 
 Certain pizza categories contribute significantly to total revenue, suggesting a focused marketing strategy to promote these offerings.
-Impact of Pizza Size:
 
+Impact of Pizza Size:
 Larger pizza sizes generate higher sales volumes, indicating opportunities for promotions and upselling strategies.
 
 ### Technologies Used
