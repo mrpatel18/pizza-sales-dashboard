@@ -10,8 +10,11 @@ This project explores pizza sales data through SQL-based queries and Tableau vis
 
 ### Key Components
 📊 SQL Queries: Used to extract and analyze key performance metrics.
+
 📈 Interactive Visualizations: Developed using Tableau to present data insights effectively.
+
 🔍 Exploratory Data Analysis (EDA): Uncovering trends and patterns within the sales data.
+
 💡 Insights and Business Recommendations: Actionable strategies derived from data analysis.
 
 ### Insights and Recommendations
