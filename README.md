@@ -26,6 +26,9 @@ Larger pizza sizes generate higher sales volumes, indicating opportunities for p
 
 ### Technologies Used
 SQL: Data extraction and analysis.
+
 Tableau: Dashboard creation and data visualization.
+
 Excel: Supporting data manipulation.
+
 Docker: Containerized environment for project deployment.
